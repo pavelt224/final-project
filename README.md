@@ -11,6 +11,19 @@ The Standard & Poor's 500 Index (S&P 500) is the most commonly used benchmark fo
 3. What is the association between opening stock prices based on volume?
 4. What is the association between closing stock prices on volume?
 
+## Technologies Used
+### Data Cleaning and Analysis
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+
+### Database Storage
+Mongo is the database we intend to use, and we will integrate Flask to display the data.
+
+### Machine Learning
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is 90/10. 
+
+### Dashboard
+In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard.
+
 ## Communication Protocols
 - Team members will communicate using the #final-project Slack channel.
 - Team members will meet at least 1x per week.
