@@ -3,7 +3,7 @@
 Source data: https://www.kaggle.com/datasets/camnugent/sandp500
 
 ## Importance
-The Standard & Poor's 500 Index (S&P 500) is the most commonly used benchmark for determining the state of the overall economy. Many investors also use the S&P 500 as a benchmark for their individual portfolios. The Dow Jones Industrial Average (DJIA) used to be the main gauge of economic health for the U.S., but that index only contains 30 companies and is limited in the sectors it represents. The S&P 500 has become the leading stock index due to its broader scope. [[Source]](https://www.investopedia.com/ask/answers/041315/what-are-pros-and-cons-using-sp-500-benchmark.asp#:~:text=The%20S%26P%20500%20is%20largely,of%20the%20American%20corporate%20economy)
+The Standard & Poor's 500 Index (S&P 500) is the most commonly used benchmark for determining the state of the overall economy. Many investors also use the S&P 500 as a benchmark for their individual portfolios. The Dow Jones Industrial Average (DJIA) used to be the main gauge of economic health for the U.S., but that index only contains 30 companies and is limited in the sectors it represents. The S&P 500 has become the leading stock index due to its broader scope. [[Source: Investopedia]](https://www.investopedia.com/ask/answers/041315/what-are-pros-and-cons-using-sp-500-benchmark.asp#:~:text=The%20S%26P%20500%20is%20largely,of%20the%20American%20corporate%20economy)
 
 ## Questions
 1. Is there a difference between the annual average return between the 5 years of data?
