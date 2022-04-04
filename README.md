@@ -8,8 +8,8 @@ The Standard & Poor's 500 Index (S&P 500) is the most commonly used benchmark fo
 ## Questions
 1. Is there a difference between the annual average return between the 5 years of data [February 7, 2013 - February 6, 2018]?
 2. What is the impact of the 5 leading companies in the direction of the S&P500?
-3. What is the association between opening stock prices based on volume?
-4. What is the association between closing stock prices on volume?
+3. Is there an association between opening stock prices based and volume?
+4. WIs there an association between closing stock prices and volume?
 
 ## Technologies Used
 ### Data Cleaning and Analysis
