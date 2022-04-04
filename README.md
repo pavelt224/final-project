@@ -33,3 +33,4 @@ In addition to using a Flask template, we will also integrate D3.js for a fully 
   - Ivan:
   - Pavel:
   - Gustavo:
+  - Jhonatan:
