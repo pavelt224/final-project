@@ -1,15 +1,14 @@
-# Predicting S&P500 trends with Machine Learning
+# Predicting Heart Disease Based on Personal Key Indicators
 
-Source data: https://www.kaggle.com/datasets/camnugent/sandp500
+Source data: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease 
 
 ## Significance
-The Standard & Poor's 500 Index (S&P 500) is the most commonly used benchmark for determining the state of the overall economy. Many investors also use the S&P 500 as a benchmark for their individual portfolios. The Dow Jones Industrial Average (DJIA) used to be the main gauge of economic health for the U.S., but that index only contains 30 companies and is limited in the sectors it represents. The S&P 500 has become the leading stock index due to its broader scope. [[Source: Investopedia]](https://www.investopedia.com/ask/answers/041315/what-are-pros-and-cons-using-sp-500-benchmark.asp#:~:text=The%20S%26P%20500%20is%20largely,of%20the%20American%20corporate%20economy)
+Several health conditions, your lifestyle, and your age and family history can increase your risk for heart disease. These are called risk factors. About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Some risk factors for heart disease cannot be controlled, such as your age or family history. But you can take steps to lower your risk by changing the factors you can control [[Source: Center for Disease Control and Prevention]](https://www.cdc.gov/heartdisease/risk_factors.htm)
 
 ## Questions
-1. Is there a difference between the annual average return between the 5 years of data [February 7, 2013 - February 6, 2018]?
-2. What is the impact of the 5 leading companies in the direction of the S&P500?
-3. Is there an association between opening stock prices based and volume?
-4. Is there an association between closing stock prices and volume?
+1. Who is at higher risk of suffering Heart Failure based on sex/gender?
+2. What is the correlation between age & heart failure?
+3. Are BMI, Smoking, Alcohol drinking, and prior stroke associated to Heart decease?
 
 ## Technologies Used
 ### Data Cleaning and Analysis
